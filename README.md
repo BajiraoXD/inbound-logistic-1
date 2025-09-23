@@ -12,22 +12,16 @@ Make sure you have Node.js and npm installed on your machine. You can download t
 
 ### Installation
 
-1.  **Clone the repo (or download the files)**
-    If you have the project files, you can skip this step.
 
-    ```sh
-    git clone <your-repo-url>
-    cd <your-repo-name>
-    ```
 
-2.  **Install NPM packages**
+1.  **Install NPM packages**
     This will install all the necessary dependencies for the project.
 
     ```sh
     npm install
     ```
 
-3.  **Set up Environment Variables**
+2.  **Set up Environment Variables**
     The project uses Genkit with Google AI, which requires an API key.
 
     - Create a new file named `.env` in the root of your project.
