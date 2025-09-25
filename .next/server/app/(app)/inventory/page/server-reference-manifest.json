@@ -1,0 +1,20 @@
+{
+  "node": {
+    "40465938720c86d21457fd871646d22fa5c55c0509": {
+      "workers": {
+        "app/(app)/inventory/page": {
+          "moduleId": "[project]/OneDrive/Desktop/inbound-logistic/.next-internal/server/app/(app)/inventory/page/actions.js { ACTIONS_MODULE0 => \"[project]/OneDrive/Desktop/inbound-logistic/src/ai/flows/simulate-inventory-projections.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "simulateInventoryProjections",
+          "filename": "OneDrive/Desktop/inbound-logistic/src/ai/flows/simulate-inventory-projections.ts"
+        }
+      },
+      "layer": {
+        "app/(app)/inventory/page": "action-browser"
+      },
+      "exportedName": "simulateInventoryProjections",
+      "filename": "OneDrive/Desktop/inbound-logistic/src/ai/flows/simulate-inventory-projections.ts"
+    }
+  },
+  "edge": {}
+}

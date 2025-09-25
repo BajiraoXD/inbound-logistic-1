@@ -1,0 +1,20 @@
+{
+  "node": {
+    "40368ba21494af41817507b41d855d017712a19944": {
+      "workers": {
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/OneDrive/Desktop/inbound-logistic/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/OneDrive/Desktop/inbound-logistic/src/ai/flows/predict-shipment-eta.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "predictShipmentETA",
+          "filename": "OneDrive/Desktop/inbound-logistic/src/ai/flows/predict-shipment-eta.ts"
+        }
+      },
+      "layer": {
+        "app/(app)/dashboard/page": "action-browser"
+      },
+      "exportedName": "predictShipmentETA",
+      "filename": "OneDrive/Desktop/inbound-logistic/src/ai/flows/predict-shipment-eta.ts"
+    }
+  },
+  "edge": {}
+}

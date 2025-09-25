@@ -1,0 +1,29 @@
+{
+  "pages": {
+    "/(app)/inventory/page": [
+      "static/chunks/OneDrive_Desktop_inbound-logistic_src_app_globals_89521311.css",
+      "static/chunks/e38c1_2edf52b4._.js",
+      "static/chunks/OneDrive_Desktop_inbound-logistic_src_ddc9e9da._.js",
+      "static/chunks/OneDrive_Desktop_inbound-logistic_src_app_layout_tsx_146c43ea._.js",
+      "static/chunks/e38c1_next_dist_client_components_builtin_global-error_1692db9b.js",
+      "static/chunks/OneDrive_Desktop_inbound-logistic_src_99cddbfa._.js",
+      "static/chunks/e38c1_d97269d3._.js",
+      "static/chunks/OneDrive_Desktop_inbound-logistic_src_app_(app)_layout_tsx_1692db9b._.js",
+      "static/chunks/OneDrive_Desktop_inbound-logistic_src_ac4c8202._.js",
+      "static/chunks/e38c1_zod_v3_8f0bda75._.js",
+      "static/chunks/e38c1_lodash_4bd09b7e._.js",
+      "static/chunks/e38c1_recharts_es6_b2feb7f7._.js",
+      "static/chunks/e38c1_2f85722b._.js",
+      "static/chunks/OneDrive_Desktop_inbound-logistic_src_app_(app)_inventory_page_tsx_58d7bc3a._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_d2624894._.js",
+      "static/chunks/e38c1_next_dist_compiled_react-dom_4ae532c2._.js",
+      "static/chunks/e38c1_next_dist_compiled_next-devtools_index_35b6471d.js",
+      "static/chunks/e38c1_next_dist_compiled_1a641d8b._.js",
+      "static/chunks/e38c1_next_dist_client_c4d6c8d9._.js",
+      "static/chunks/e38c1_next_dist_67e82b9c._.js",
+      "static/chunks/e38c1_@swc_helpers_cjs_efd674bc._.js",
+      "static/chunks/OneDrive_Desktop_inbound-logistic_a0ff3932._.js",
+      "static/chunks/turbopack-OneDrive_Desktop_inbound-logistic_003f9606._.js"
+    ]
+  }
+}

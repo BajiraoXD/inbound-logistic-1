@@ -1,0 +1,36 @@
+{
+  "node": {
+    "40368ba21494af41817507b41d855d017712a19944": {
+      "workers": {
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/OneDrive/Desktop/inbound-logistic/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/OneDrive/Desktop/inbound-logistic/src/ai/flows/predict-shipment-eta.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "predictShipmentETA",
+          "filename": "OneDrive/Desktop/inbound-logistic/src/ai/flows/predict-shipment-eta.ts"
+        }
+      },
+      "layer": {
+        "app/(app)/dashboard/page": "action-browser"
+      },
+      "filename": "OneDrive/Desktop/inbound-logistic/src/ai/flows/predict-shipment-eta.ts",
+      "exportedName": "predictShipmentETA"
+    },
+    "40465938720c86d21457fd871646d22fa5c55c0509": {
+      "workers": {
+        "app/(app)/inventory/page": {
+          "moduleId": "[project]/OneDrive/Desktop/inbound-logistic/.next-internal/server/app/(app)/inventory/page/actions.js { ACTIONS_MODULE0 => \"[project]/OneDrive/Desktop/inbound-logistic/src/ai/flows/simulate-inventory-projections.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "simulateInventoryProjections",
+          "filename": "OneDrive/Desktop/inbound-logistic/src/ai/flows/simulate-inventory-projections.ts"
+        }
+      },
+      "layer": {
+        "app/(app)/inventory/page": "action-browser"
+      },
+      "filename": "OneDrive/Desktop/inbound-logistic/src/ai/flows/simulate-inventory-projections.ts",
+      "exportedName": "simulateInventoryProjections"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "5uWINKeHYw6UQIZT8238JfDFkt22X94ruFbu0PTpmWU="
+}
